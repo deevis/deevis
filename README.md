@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @deevis
-- 👀 I’m interested in making sense of and visualizing complex computational spaces
-- 🌱 I’m currently learning NEO4J and Python
-- 💞️ I’m looking to collaborate on ...
+- ✨ I'm a seasoned Ruby on Rails developer with 10+ years experience
+- 👀 I’m interested in deep learning and systems integrations
+- 🌱 I’m currently learning Python and Tensorflow/Pytorch
+- 💞️ I’m looking to for exciting opportunities
 - 📫 How to reach me ...
 
 <!---
