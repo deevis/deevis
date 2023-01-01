@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python and Tensorflow/Pytorch
 - 💞️ I’m looking to for exciting opportunities
 - 📫 How to reach me ...
+- [Hackerrank Profile](https://www.hackerrank.com/darren_hicks)
 
 <!---
 deevis/deevis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
