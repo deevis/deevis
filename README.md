@@ -5,7 +5,7 @@
 - 👀 I’m interested in deep learning and systems integrations
 - 🌱 I’m currently mastering Python and learning the Remix Typescript framework
 - 💞️ I’m looking to for exciting opportunities
-- 📫 How to reach me ...
+- [LinkedIn](https://www.linkedin.com/in/darrenhicks/)
 - [Hackerrank Profile](https://www.hackerrank.com/darren_hicks)
 
 <!---
