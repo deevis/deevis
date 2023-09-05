@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @deevis
+- 👋 Hi, I’m @deevis - I've been programming 25+ years
+- ✨ I'm diving deep into the Python Machine Learning world and fronting it with Typescript
 - ✨ I'm a seasoned Ruby on Rails developer with 10+ years experience
 - ✨ Before that I drank the Java koolaid and also did sysadmin work
 - 👀 I’m interested in deep learning and systems integrations
-- 🌱 I’m currently learning Python and Tensorflow/Pytorch
+- 🌱 I’m currently mastering Python and learning the Remix Typescript framework
 - 💞️ I’m looking to for exciting opportunities
 - 📫 How to reach me ...
 - [Hackerrank Profile](https://www.hackerrank.com/darren_hicks)
