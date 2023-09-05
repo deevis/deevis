@@ -6,7 +6,7 @@
 - 🌱 I’m currently mastering Python and learning the Remix Typescript framework
 - 💞️ I’m looking to for exciting opportunities
 - [LinkedIn](https://www.linkedin.com/in/darrenhicks/)
-- [Hackerrank Profile](https://www.hackerrank.com/darren_hicks)
+- [Hackerrank](https://www.hackerrank.com/darren_hicks)
 
 <!---
 deevis/deevis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
