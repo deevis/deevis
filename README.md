@@ -5,6 +5,7 @@
 - 👀 I’m interested in deep learning and systems integrations
 - 🌱 I’m currently mastering Python and learning the Remix Typescript framework
 - 💞️ I’m looking to for exciting opportunities
+- [AI Generated Art](https://www.instagram.com/deepdream_inception/)
 - [LinkedIn](https://www.linkedin.com/in/darrenhicks/)
 - [Hackerrank](https://www.hackerrank.com/darren_hicks)
 
