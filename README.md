@@ -2,6 +2,7 @@
 - 👀 I’m interested in deep learning and systems integrations
 - 🌱 I’m currently mastering Python and writing ChatGPT plugins
 - 💞️ I’m looking to for exciting opportunities
+- [Personal Website](https://darrenhicks.dev/)
 - [AI Generated Art](https://www.instagram.com/deepdream_inception/)
 - [LinkedIn](https://www.linkedin.com/in/darrenhicks/)
 - [Hackerrank](https://www.hackerrank.com/darren_hicks)
